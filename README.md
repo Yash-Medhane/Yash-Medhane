@@ -9,7 +9,7 @@
 ### 📫 Let's Connect:
 - 📧 Feel free to hit me up at [Your Email Address] for a tech chat or a virtual cup of coffee.
 - 🌍 Connect with me on [LinkedIn](link_to_your_linkedin) for more professional shenanigans.
-- 📸 Catch glimpses of my coding life on [Instagram](link_to_your_instagram).
+- 📸 Catch glimpses of my coding life on [Instagram]([link_to_your_instagram](https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D)).
 - 🐦 Tweet me your favorite programming memes and tech puns on [Twitter](link_to_your_twitter).
 
 ### 💻 Languages and Tools:
