@@ -1,4 +1,4 @@
-# Hey there! I'm [Your Name], a BTech IT student on a coding adventure! 🚀
+# Hey there! I'm [Yash Medhane], a BTech IT student on a coding adventure! 🚀
 
 ### 🎓 About Me:
 - 📚 Currently rocking my Bachelor's in Information Technology.
@@ -7,8 +7,8 @@
 - 🌱 Learning, growing, and embracing the journey one line of code at a time.
 
 ### 📫 Let's Connect:
-- 📧 Feel free to hit me up at [Your Email Address] for a tech chat or a virtual cup of coffee.
-- 🌍 Connect with me on [LinkedIn](link_to_your_linkedin) for more professional shenanigans.
+- 📧 Feel free to hit me up at [yashmedhane43@gmail.com] for a tech chat or a virtual cup of coffee.
+- 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGmb1TFb7R3JgAAAY7qJDBAr2Al_jEdTUT7vIew4qnWWQFuvqO0-ciokD4vAH_hsCjuFBgjx5xXP8nvNriRcpaXgvNnhP3LOMd0ABS_ptW63lLnFSuPEGVUp9RHvgxuCEDwdiM=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyash-medhane-403970267%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) for more professional shenanigans.
 - 📸 Catch glimpses of my coding life on [Instagram](https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D).
 - 🐦 Tweet me your favorite programming memes and tech puns on [Twitter](link_to_your_twitter).
 
