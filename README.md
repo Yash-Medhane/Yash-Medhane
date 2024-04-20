@@ -1,29 +1,31 @@
-# Hey there! I'm [Yash Medhane], a BTech IT student on a coding adventure! 🚀
+<h1 align="center">Hi 👋, I'm Yash Medhane</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-### 🎓 About Me:
-- 📚 Currently rocking my Bachelor's in Information Technology.
-- 🧠 Constantly curious about all things tech and beyond!
-- 💡 Passionate about turning caffeine into code and ideas into reality.
-- 🌱 Learning, growing, and embracing the journey one line of code at a time.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-medhane&label=Profile%20views&color=0e75b6&style=flat" alt="yash-medhane" /> </p>
 
-### 📫 Let's Connect:
-- 📧 Feel free to hit me up at yashmedhane43@gmail.com for a tech chat or a virtual cup of coffee.
-- 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGmb1TFb7R3JgAAAY7qJDBAr2Al_jEdTUT7vIew4qnWWQFuvqO0-ciokD4vAH_hsCjuFBgjx5xXP8nvNriRcpaXgvNnhP3LOMd0ABS_ptW63lLnFSuPEGVUp9RHvgxuCEDwdiM=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyash-medhane-403970267%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app) for more professional shenanigans.
-- 📸 Catch glimpses of my coding life on [Instagram](https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D).
-- 🐦 Tweet me your favorite programming memes and tech puns on [Twitter](link_to_your_twitter).
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-medhane" alt="yash-medhane" /></a> </p>
 
-### 💻 Languages and Tools:
-- 💡 JavaScript, HTML5, CSS3 - My trusty companions in web wizardry.
-- 🚀 React, Node.js, Express.js - Powering my projects to infinity and beyond!
-- 📦 MongoDB, MySQL, SQLite - Crafting data-driven wonders.
-- 🌈 Plus, a sprinkle of C, C++, and Java for some extra fun!
+- 🔭 I’m currently working on Web Technology [C-Learning-Web-App](https://github.com/Yash-Medhane/C-Learning-App)
 
-### 🚀 My Latest Projects:
-- [Pizza Hub](link_to_project_1): Short and catchy description.
-- [C learning App](link_to_project_2): Brief overview of the awesomeness.
-- [Portfolio Website](link_to_project_3): Because every project has a story to tell!
+- 🌱 I’m currently learning **React,Frameworks**
 
+- 👨‍💻 All of my projects are available at [https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D](https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D)
 
+- 💬 Ask me about **Cpp,JS,NodeJS**
 
-### 🎉 Let's Code and Create Magic Together! ✨
+- 📫 How to reach me **yashmedhane43@gmail.com**
+
+- 📄 Know about my experiences [https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D](https://www.instagram.com/yash_medhane_04/?igsh=MXJlbnZ6cXlseXNqZw%3D%3D)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-medhane&show_icons=true&locale=en&layout=compact" alt="yash-medhane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-medhane&" alt="yash-medhane" /></p>
+
 
