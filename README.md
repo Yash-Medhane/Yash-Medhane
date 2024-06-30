@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashmedhane43@gmail.com**
 
-- 📄 Know about my experiences [Here](https://yash-medhane-portfolioapp.vercel.app/)
+- 📄 Know about my experiences [Link](https://yash-medhane-portfolioapp.vercel.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
